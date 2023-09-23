@@ -1,2 +1,3 @@
 ssh -l +用户名 +ip
 man -1(23) +其他命令
+man man
